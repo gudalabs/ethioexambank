@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114425292040",
+    "project_id": "gudalabs-2d366",
+    "storage_bucket": "gudalabs-2d366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114425292040:android:44adb8aa3ed91b07f338bd",
+        "android_client_info": {
+          "package_name": "gudalabs.alphatechnology.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114425292040-f4ct0282v82aneva3t951itli0v95cnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gudalabs.alphatechnology.quizapp",
+            "certificate_hash": "77604fe4ff86e5f786104178c2205243aa9bcb9f"
+          }
+        },
+        {
+          "client_id": "114425292040-r3d94lpnsjv6voqfrtci6cbbql83kfoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR07bqrLT59B89Gk8vxCX6WtH2M6r6Bp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114425292040-r3d94lpnsjv6voqfrtci6cbbql83kfoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
